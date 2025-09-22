@@ -1,5 +1,5 @@
 # DataPreprocessingTool
-A simple tool for bulk processing of .csv files
+A simple tool for bulk processing of .csv files, forked from Jake Diggins' original repo.
 
 Feel free to make changes to the code where necessary. 
 
